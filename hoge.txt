@@ -1,3 +1,4 @@
 File change.
 File is changed by master
 File is changed by try-gonflict
+file is changed by collaborator
